@@ -3,25 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Black Coeurl Apothecar", "Black Coeurl Apothecar\", "{08F18833-5E8C-497C-A733-033365C68E7D}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "docs", "docs\", "{4328F7B1-A94D-4415-9752-A78A13BCDA31}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_55707"
-		Debug.AspNetCompiler.PhysicalPath = "Black Coeurl Apothecar\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55707\"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56276"
+		Debug.AspNetCompiler.PhysicalPath = "docs\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56276\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_55707"
-		Release.AspNetCompiler.PhysicalPath = "Black Coeurl Apothecar\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55707\"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56276"
+		Release.AspNetCompiler.PhysicalPath = "docs\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56276\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "55707"
-		SlnRelativePath = "Black Coeurl Apothecar\"
+		VWDPort = "56276"
+		SlnRelativePath = "docs\"
 	EndProjectSection
 EndProject
 Global
@@ -29,8 +29,8 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{08F18833-5E8C-497C-A733-033365C68E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{08F18833-5E8C-497C-A733-033365C68E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4328F7B1-A94D-4415-9752-A78A13BCDA31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4328F7B1-A94D-4415-9752-A78A13BCDA31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
